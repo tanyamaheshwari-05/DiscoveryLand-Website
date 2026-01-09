@@ -1,0 +1,293 @@
+{
+    "home":[
+        {
+            
+      "temp": "62°F",
+      "wind": "4 mph",
+      "degree": "60°",
+      "city": "Cabo San Lucas, Mexico",
+      "club": "Chileno Bay Golf & Beach Club",
+      "coords": "22.95365° N / -109.816218° W",
+      "img": "https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500" 
+    },
+    {
+      "temp": "75°F",
+      "wind": "2 mph",
+      "degree": "120°",
+      "city": "Flathead Lake,Montana",
+      "club": "Territory 1889 Golf and Lake club",
+      "coords": "26.6853° N / -77.3182° W",
+      "img": "https://www.datocms-assets.com/128889/1745433311-25718_large-1500-x-1500.jpg?fit=max&h=350&w=500"
+    },
+        {
+            "temp": "75°F",
+      "wind": "2 mph",
+      "degree": "120°",
+        
+        "city":"Tuscany ,Itlay",
+        "club":"Tenuta Toscana",
+          "coords": "26.6853° N / -77.3182° W",
+        "img":"https://www.datocms-assets.com/128889/1726232913-paesaggio_tappainer_2022-copy.jpeg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 2,
+        "name":"Territory 1889 Golf & Lake Club",
+        "location":"Rathead Lake,Montana",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 3,
+        "name":"Tenuta Toscana",
+        "location":"Tuscany,Italy ",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 4,
+        "name":"Mohala",
+        "location":"Handulu,Hawaii",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 5,
+        "name":"Crazy mountain ranch",
+        "location":"Shields Valley,Montana",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 6,
+        "name":"Maverick Golf & ranch club",
+        "location":"Fort Worth,Texas",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 7,
+        "name":"Austin surf club",
+        "location":"Austin,Texas",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 8,
+        "name":"Atlantic Field",
+        "location":"Hobe Sound,Florida",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 9,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 10,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 11,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 12,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 13,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 14,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 15,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 16,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 17,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 18,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 19,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 20,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 21,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 22,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 23,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 24,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 25,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 26,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 27,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 28,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 29,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 30,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 31,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 32,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id":33,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 34,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 35,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 36,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 37,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        },
+        {
+        "id": 38,
+        "name":"Moncayo Golf & Ocean Club",
+        "location":"Fajardo,Pureto Rico",
+        "img":"https://www.datocms-assets.com/128889/1760554417-astr4165.jpg?fit=max&h=350&w=500"
+
+        }
+    ]
+}
